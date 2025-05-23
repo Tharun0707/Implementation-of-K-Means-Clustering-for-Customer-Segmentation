@@ -71,24 +71,31 @@ plt.title("Customer Segments")
 ![K Means Clustering for Customer Segmentation](sam.png)
 
 **data.head():**
+
 ![image](https://github.com/user-attachments/assets/2e2f1b8e-00cf-4780-a6a8-3fc8daed4a02)
 
 **data.info():**
+
 ![image](https://github.com/user-attachments/assets/f6124644-f366-441f-bbfc-7e2164be8b6a)
 
 **Null Values:**
+
 ![image](https://github.com/user-attachments/assets/5cbbd9bb-5ef5-489f-8818-adc5e16580e1)
 
 **Elbow Values:**
+
 ![image](https://github.com/user-attachments/assets/aa18e6a9-ce70-4183-b94b-67759d1a580c)
 
 **Cluster formation:**
+
 ![image](https://github.com/user-attachments/assets/d0fe7a71-7482-4443-ba76-13c2266c456b)
 
 **Predicted Value:**
+
 ![image](https://github.com/user-attachments/assets/cd65875a-a4e1-47ba-96a7-1677e7ce8e28)
 
 **Final Graph:**
+
 ![image](https://github.com/user-attachments/assets/0e7cbed5-3966-4e06-ac53-6e8d1a093e5c)
 
 
